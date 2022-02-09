@@ -65,7 +65,8 @@ When running the `dev` command, killing the container will stop the GUI but not 
 
 ## Next Steps
 
-[ ] Make sure nothing weird happens/breaks
-[ ] Have a better way to handle permissions
-[ ] Provide a docker-compose.yml sample
-[ ] Support more systems
+- Make sure nothing weird happens/breaks
+- Try to build
+- Have a better way to handle permissions
+- Provide a docker-compose.yml sample
+- Support more systems
